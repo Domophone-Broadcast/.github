@@ -5,4 +5,4 @@ Domophone allows you to personalize the sound of your home doorbell 🏠, or eve
 ✨ WIP ✨
 
 #### Domophone is build with :
- <img src="https://skills.syvixor.com/api/icons?i=cpp,go,swiftui,react,winui&theme=dark&perline=15&radius=70"/>
+ <img src="https://skills.syvixor.com/api/icons?i=cpp,go,swiftui,reactnative,winui&theme=dark&perline=15&radius=70"/>
